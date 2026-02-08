@@ -1,6 +1,6 @@
 import feedparser, datetime, numpy
 
-blog_url="https://star77sa.github.io/"
+blog_url="https://ksko0424.github.io/"
 feed = feedparser.parse(blog_url+"/index.xml")
  
 markdown_text = """
