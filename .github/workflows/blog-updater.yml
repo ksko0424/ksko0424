@@ -25,4 +25,4 @@ jobs:
           feed_list: "https://ksko0424.github.io/index.xml"
           max_post_count: 7
           template: "$newline- [$title]($url) - $date"
-          date_format: "%b %d, %Y"
+          date_format: "mmm dd, yyyy"
