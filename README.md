@@ -33,7 +33,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ksko0424@gmail.com)](mailto:ksko0424@gmail.com)
 
 
-- 🌱 I’m currently learning `Multi-objective optimization`, `Physics-Informed Neural Networks(PINNs)`
+- 🌱 I’m currently learning `Vision-Language-Action(VLA)`
 
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
