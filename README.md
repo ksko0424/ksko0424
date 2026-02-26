@@ -36,6 +36,7 @@
 - 🌱 I’m currently learning `Multi-objective optimization`, `Physics-Informed Neural Networks(PINNs)`
 
 ## Recent blog posts
+
 [[Paper Review] Dual Cone Gradient Descent for Training Physics-Informed Neural Networks(NeurIPS 2024)](https://star77sa.github.io/posts/PINN/DCGD.html) - Jul 24, 2025<br>
     [[Paper Review] Contrastive Learning based Semantic Communication for Wireless Image Transmission (VTC2023)](https://star77sa.github.io/posts/Contrastive_Learning/Contrastive_Learning_based_Semantic_Communication_for_Wireless_Image_Transmission.html) - May 18, 2025<br>
     [Network / D-N-A 기반 X+AI 서비스 실증](https://star77sa.github.io/posts/Network/X_AI_Network.html) - Apr 14, 2025<br>
