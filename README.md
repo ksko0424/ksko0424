@@ -3,7 +3,7 @@
 
 
 - Name : Kyeongsoo Ko         
-- Email : ksko0424@gm.gist.ac.kr 
+- Email : ksko0424@keti.re.kr 
 - Education:
   - GIST M.S. in AI Graduate School
   - JBNU B.S. in Statistics & Computer Science Engineering (Double Major)
@@ -28,9 +28,9 @@
 -->
 
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://star77sa.github.io/)](https://star77sa.github.io)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/star77sa)](https://www.linkedin.com/in/star77sa)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:star77sa@gmail.com)](mailto:star77sa@gmail.com)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ksko0424.github.io/)](https://ksko0424.github.io)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ksko0424)](https://www.linkedin.com/in/ksko0424)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ksko0424@gmail.com)](mailto:ksko0424@gmail.com)
 
 
 - 🌱 I’m currently learning `Multi-objective optimization`, `Physics-Informed Neural Networks(PINNs)`
