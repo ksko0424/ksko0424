@@ -37,7 +37,7 @@
 
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [OmniVLA: An omni-modal vision-language-action model for robot navigation](https://ksko0424.github.io/posts/VLA/OmniVLA.html) - Mar 11, 2026
+- [[Paper Review] OmniVLA: An omni-modal vision-language-action model for robot navigation](https://ksko0424.github.io/posts/VLA/OmniVLA.html) - Mar 11, 2026
 - [[Paper Review] Dual Cone Gradient Descent for Training Physics-Informed Neural Networks&lpar;NeurIPS 2024&rpar;](https://ksko0424.github.io/posts/PINN/DCGD.html) - Jul 24, 2025
 - [[Paper Review] Contrastive Learning based Semantic Communication for Wireless Image Transmission &lpar;VTC2023&rpar;](https://ksko0424.github.io/posts/Contrastive_Learning/Contrastive_Learning_based_Semantic_Communication_for_Wireless_Image_Transmission.html) - May 18, 2025
 - [Network / D-N-A 기반 X+AI 서비스 실증](https://ksko0424.github.io/posts/Network/X_AI_Network.html) - Apr 14, 2025
