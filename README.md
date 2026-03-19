@@ -16,17 +16,6 @@
   - 2nd Award, Data Creator Camp Hackathon
   - JBNU President's Award(2021 Academic Excellence Award)
 
-- Scholarships
-  - National Science & Technology Scholarship(2022-2023)
-  - Jeonbuk Next Generation Science Talent Scholarship(2022)
-  - Academic Excellence Scholarship(2018, 2021)
-
-
-  
-<!--
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=star77sa)](https://solved.ac/star77sa)
--->
-
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ksko0424.github.io/)](https://ksko0424.github.io)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ksko0424)](https://www.linkedin.com/in/ksko0424)
