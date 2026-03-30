@@ -26,10 +26,10 @@
 
 ## Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [[Paper Review] VL-Nav: A Neuro-Symbolic Approach for Reasoning-based Vision-Language Navigation](https://ksko0424.github.io/posts/VLA/VL-Nav.html) - Mar 26, 2026
 - [[Paper Review] OmniVLA: An omni-modal vision-language-action model for robot navigation](https://ksko0424.github.io/posts/VLA/OmniVLA.html) - Mar 11, 2026
 - [[Paper Review] Dual Cone Gradient Descent for Training Physics-Informed Neural Networks&lpar;NeurIPS 2024&rpar;](https://ksko0424.github.io/posts/PINN/DCGD.html) - Jul 24, 2025
 - [[Paper Review] Contrastive Learning based Semantic Communication for Wireless Image Transmission &lpar;VTC2023&rpar;](https://ksko0424.github.io/posts/Contrastive_Learning/Contrastive_Learning_based_Semantic_Communication_for_Wireless_Image_Transmission.html) - May 18, 2025
 - [Network / D-N-A 기반 X+AI 서비스 실증](https://ksko0424.github.io/posts/Network/X_AI_Network.html) - Apr 14, 2025
 - [[Paper Review] TS2Vec: Towards universal representation of time series&lpar;AAAI 2022&rpar;](https://ksko0424.github.io/posts/etc/TS2Vec.html) - Apr 02, 2025
-- [[Optimal Design] 12. Numerical method for constrained optimum design](https://ksko0424.github.io/posts/Optimal_Design/Opt_12.html) - Dec 14, 2024
-- [[Optimal Design] 11. More on Numerical Methods for Unconstrained Optimum Design](https://ksko0424.github.io/posts/Optimal_Design/Opt_11.html) - Dec 13, 2024<!-- BLOG-POST-LIST:END -->
+- [[Optimal Design] 12. Numerical method for constrained optimum design](https://ksko0424.github.io/posts/Optimal_Design/Opt_12.html) - Dec 14, 2024<!-- BLOG-POST-LIST:END -->
